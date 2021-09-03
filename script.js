@@ -27,4 +27,4 @@ function validateAmount() {
         document.getElementById("principal").focus();
     }
 
-}       
+}
